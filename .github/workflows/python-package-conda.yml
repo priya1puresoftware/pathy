@@ -34,4 +34,5 @@ jobs:
         conda install pytest
         pip install smart-open
         pip install typer
+        pip install mock
         pytest
